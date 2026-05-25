@@ -24,7 +24,9 @@ Adicione um novo elemento ao final da lista:
 nomes = ["Ana", "Carlos", "Julia"]
 - adicione "João"
 
-## 4.
+---
+
+### 4.
 
 Remova o elemento `"banana"` da lista:
 
